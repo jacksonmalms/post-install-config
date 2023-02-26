@@ -159,9 +159,9 @@ Then go to Admin Panel -> Manage -> SLA -> Add New SLA Plan
 <p>
 Now add the following SLAs
   
-- SEV-A with a grace period of 1 hour, and a 24/7 schedual
-- SEV-B with a grace period of 4 hours, and a 24/7 schedual
-- SEV-C with a grace period of 8 hours, and a Mon-Fri bussiness hours schedual
+- SEV-A with a grace period of 1 hour, and a 24/7 schedule
+- SEV-B with a grace period of 4 hours, and a 24/7 schedule
+- SEV-C with a grace period of 8 hours, and a Mon-Fri business hours schedule
 </p>
 <br />
 
@@ -176,6 +176,6 @@ Now go to "Help Topics" and add the following help topics:
 - Equipment Request
 - Password Reset
   
-Congratualtions! You have made it to the end of this part of the tutorial, the next one we will explore tikets and the ticket lifecycle (link to that is listed below)
+Congratulations! You have made it to the end of this part of the tutorial, the next one we will explore tickets and the ticket lifecycle (link to that is listed below)
   
 - [osTicket: Ticket Lifecycle Examples](https://github.com/jacksonmalms/ticket-lifecycle)
